@@ -14,7 +14,7 @@ Nhóm 4
 -3. Võ Duy Khải
 -4. Vũ Xuân Tuấn
 
-3. Công nghệ sử dụng
+4. Công nghệ sử dụng
 - Ngôn ngữ lập trình: Python 3.13
 - Giao thức mạng: TCP
 - Thư viện chính:
