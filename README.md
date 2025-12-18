@@ -1,3 +1,4 @@
+ HEAD
 TCP Network Bandwidth Measurement Tool
 
 1. Giới thiệu dự án
@@ -59,3 +60,6 @@ Mở terminal tại thư mục dự án:
 -python bandwidth_client.py để khởi động client
 Nhập ip server và port tương ứng
 
+=======
+# duannhom4
+>>>>>>> cd733fedc98437ad541f42ad024d92bce1342a9d
