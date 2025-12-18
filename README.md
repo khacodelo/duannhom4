@@ -8,7 +8,7 @@ Trong hệ thống này, client gửi một lượng dữ liệu lớn (ví dụ
 Dự án giúp người học hiểu rõ hơn về lập trình mạng, đo lường hiệu năng và xử lý dữ liệu dung lượng lớn.
 
 2. Thành viên nhóm
-Nhóm 13
+Nhóm 4
 -1. Nguyễn Hữu Kha
 -2. Huỳnh Duy Hưng
 -3. Võ Duy Khải
